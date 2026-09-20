@@ -1,0 +1,14 @@
+PHONE SE APK BANANE KE STEPS
+
+1. ZIP extract karo.
+2. github.com par login karo.
+3. New repository banao: EnglishBuddyAI
+4. Project ke SAARE files upload karo, including .github/workflows/android.yml
+5. Repository me Actions tab kholo.
+6. "Build Android APK" workflow select karo.
+7. "Run workflow" dabao.
+8. Build complete hone par workflow ke Summary page me Artifacts section me
+   English-Buddy-AI-APK download karo.
+9. ZIP extract karke app-debug.apk phone me install karo.
+
+Agar Actions me workflow na dikhe, repository me push/upload ke baad Actions tab refresh karo.
